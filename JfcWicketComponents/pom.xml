@@ -1,6 +1,6 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
-    <name>arnaudtest123</name>
+    <name>Wicket JFreeChart Component</name>
     <groupId>org.krohm.wicket</groupId>
     <artifactId>JfcComponents</artifactId>
     <packaging>jar</packaging>
